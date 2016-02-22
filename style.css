@@ -1,0 +1,86 @@
+body {
+  background-color: #f5fffa;
+  font-family: 'Comfortaa', cursive;
+}
+
+p {
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: left inherit;
+  font-style: oblique;
+  color: black;
+}
+
+header {
+  text-align:center;
+  padding:50px 0;
+  color:#fff
+}
+
+.header-container {
+  background-color: slategrey;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+}
+
+h2,h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h4 {
+  font-weight:bold;
+  text-align:center;
+  font-size:14px;
+}
+
+h5 {
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 2%;
+}
+
+.mephoto {
+  margin-left: 32%;
+}
+
+img {
+  max-width:100%;
+  height:auto;
+  opacity:.75;position:relative;
+  z-index:5;
+}
+
+.main {
+  background-color: #f5fffa;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.main img:hover {
+  opacity:1;z-index:10;
+  -moz-transform:scale(1.5);
+  -webkit-transform:scale(1.5);-o-transform:scale(1.5);
+  -ms-transform:scale(1.5);
+  transform:scale(1.5);
+  -webkit-transition:all 200ms ease;
+  -moz-transition:all 200ms ease;
+  -ms-transition:all 200ms ease;
+  -o-transition:all 200ms ease;
+  transition:all 200ms ease
+}
+
+a:link {
+  color: #ffe4b5;
+}
+
+a:visited {
+  color: #ffe4b5;
+}
