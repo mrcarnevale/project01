@@ -13,7 +13,7 @@ p {
 
 header {
   text-align:center;
-  padding:50px 0;
+  padding: 50px 0;
   color:#fff
 }
 
@@ -35,9 +35,9 @@ h2,h3 {
 }
 
 h4 {
-  font-weight:bold;
-  text-align:center;
-  font-size:14px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
 }
 
 h5 {
@@ -48,14 +48,14 @@ h5 {
 }
 
 .mephoto {
-  margin-left: 32%;
+  margin-left: 34%;
 }
 
 img {
-  max-width:100%;
-  height:auto;
-  opacity:.75;position:relative;
-  z-index:5;
+  max-width: 100%;
+  height: auto;
+  opacity: .75;position:relative;
+  z-index: 5;
 }
 
 .main {
